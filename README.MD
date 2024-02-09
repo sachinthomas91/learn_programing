@@ -1,3 +1,3 @@
-sachinthomas91/learn_programing
+Learn Programing - Repository
 
-This is a repository to keep project files. Project files for the various programing languages
+This is a repository to keep project files. Mostly small individual data projects
