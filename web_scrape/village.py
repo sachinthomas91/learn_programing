@@ -1,6 +1,3 @@
-
-
-
 #######################################################
 ## Import Packages
 #######################################################
@@ -16,7 +13,7 @@ import os
 
 
 #######################################################
-## Headless Browser Web Scraper for Apartment Complex
+## Headless Browser Web Scraper for Apartment Community
 #######################################################
 
 ## Declare Variables
