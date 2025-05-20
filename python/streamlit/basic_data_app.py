@@ -9,6 +9,8 @@ st.text("This is a simple Streamlit app to explore earthquake data")
 
 # File uploader widget for CSV files
 uploaded_file = st.file_uploader("Choose a CSV file to Upload", type="csv")
+# Sample data for this project was downloaded from Github
+# https://github.com/andymcdgeo/streamlit_tutorial_series/blob/main/data/kaggle_significant_earthquakes_database.csv
 
 # If a file is uploaded, process and display the data
 if uploaded_file is not None:
