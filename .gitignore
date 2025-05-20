@@ -1,1 +1,52 @@
 # Create a gitignore file for test purposes only
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+*.env
+*.venv
+**/*.env
+**/*.venv
+.envrc
+secrets.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Private keys and credentials
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+apikey*
+*key.json
+
+# VS Code
+.vscode/
+
+# Misc
+*.swp
+*.swo
+
+# Don't ignore LICENSE, README.md, or other docs
+!LICENSE
+!README.md
